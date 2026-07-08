@@ -10,6 +10,9 @@
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
@@ -18,6 +21,10 @@
 ---
 
 ## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=lakshyabubna&theme=github_dark&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyabubna&theme=github-dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=lakshyabubna&show_icons=true&theme=github_dark&hide_border=true)
 
