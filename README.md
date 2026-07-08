@@ -36,19 +36,17 @@
 
 ---
 
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/lakshyabubna
-
----
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshyabubna&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/lakshyabubna
 
 ---
 
