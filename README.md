@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=lakshyabubna&theme=darkhub&no-frame=true&margin-w=15)
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshyabubna&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ---
