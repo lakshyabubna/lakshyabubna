@@ -1,4 +1,10 @@
-# Hi there, I'm Lakshya Bubna 👋
+<h1 align="center">
+  Hi 👋, I'm Lakshya Bubna
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+@+JIIT+Noida;C%2B%2B+Developer;Learning+Data+Structures+%26+Algorithms;Git+%7C+GitHub+%7C+Problem+Solver;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -10,10 +16,6 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
-</p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
 </p>
@@ -26,11 +28,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyabubna&theme=github-dark)
 
-![](https://github-readme-stats.vercel.app/api?username=lakshyabubna&show_icons=true&theme=github_dark&hide_border=true)
+## 💻 Most Used Languages
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyabubna&theme=github-dark&hide_border=true)
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyabubna&layout=compact&theme=github_dark)
 
 ## 📫 Connect with Me
 
