@@ -28,13 +28,35 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyabubna&theme=github-dark)
 
+---
+
 ## 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyabubna&layout=compact&theme=github_dark)
 
+---
+
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/lakshyabubna
+
+---
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshyabubna&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshyabubna&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
