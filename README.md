@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Lakshya Bubna 👋
 
-<!--
-**lakshyabubna/lakshyabubna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Incoming B.Tech CSE Student at JIIT Noida
+- 💻 Passionate about C++, Git, GitHub, and Data Structures & Algorithms
+- 🌱 Currently learning C++ and DSA
+- 🚀 Building my programming skills one project at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=lakshyabubna&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyabubna&theme=github-dark&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/lakshyabubna
+
+---
+
+⭐ Thanks for visiting my profile!
