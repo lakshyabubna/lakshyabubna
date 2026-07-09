@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Incoming B.Tech CSE Student at JIIT Noida
-- 💻 Passionate about C++, Git, GitHub, and Data Structures & Algorithms
-- 🌱 Currently learning C++ and DSA
-- 🚀 Building my programming skills one project at a time
+- B.Tech CSE Student at JIIT Noida
+- Passionate about C++, Git, GitHub, and Data Structures & Algorithms
+- Currently learning C++ and DSA
+- Building my programming skills one project at a time
 
 ---
 
@@ -33,14 +33,6 @@
 ## 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyabubna&layout=compact&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshyabubna&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
 
 ---
 
